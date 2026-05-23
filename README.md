@@ -8,12 +8,12 @@ I am a mechanical engineer with a passion for design, CAD, 3D printing, software
 - 🛰️ **[orbital-mechanics-matlab](https://github.com/jessicapanuccio/orbital-mechanics-matlab)** — orbital mechanics programming projects in MATLAB.
 
 ### Skiils
-**CAD & Modeling** - SolidWorks, Creo, Onshape, nTop
-**Software** - MATLAB, Java, HTML, LaTeX, Python
-**Skills** - FEA, CAD, 3D Printing, Music, AI
+- **CAD & Modeling** - SolidWorks, Creo, Onshape, nTop
+- **Software** - MATLAB, Java, HTML, LaTeX, Python
+- **Skills** - FEA, CAD, 3D Printing, Music, AI
 
 ### LinkedIn
-[LinkedIn](https://www.linkedin.com/in/jessica-panuccio/)
+- Let's connect: [LinkedIn](https://www.linkedin.com/in/jessica-panuccio/)
 
 
 <!--
