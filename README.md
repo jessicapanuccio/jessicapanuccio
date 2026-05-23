@@ -2,7 +2,7 @@
 
 I am a mechanical engineer with a passion for design, CAD, 3D printing, software development, AI tooling, and music. I received my Mechanical Engineering M.E. and Mechanical Engineering B.S. from RIT.
 
-**Areas of Interest** — additive manufacturing · consumer products · biomedical devices · themed entertainment · music technology · AI tooling · automation · robotics
+**Areas of Interest:** additive manufacturing · consumer products · biomedical devices · themed entertainment · music technology · AI tooling · automation · robotics
 
 ---
 
