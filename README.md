@@ -10,6 +10,7 @@ I am a mechanical engineer with a passion for design, CAD, 3D printing, software
 
 - 🎵 **[chime-machine](https://github.com/jessicapanuccio/chime-machine)** — robotic music machine using CAD design, 3D printing, and Arduino programming to control solenoids and motors. Selectively chosen to display project at Imagine RIT Festival.
 - 🛰️ **[orbital-mechanics-matlab](https://github.com/jessicapanuccio/orbital-mechanics-matlab)** — orbital mechanics programming projects in MATLAB.
+- 👀 more on the way :)
 ---
 ### Skills
 - 🖥️ **CAD & Modeling** — SolidWorks · Creo · Onshape · Autodesk Fusion · nTop
